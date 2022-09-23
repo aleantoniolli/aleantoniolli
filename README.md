@@ -1,6 +1,6 @@
 # Hi 👋, I'm Alessandro
 
-I'm a computer engineer and a software developer. I'm passionate about technology and huge attraction by astronomy 🌌.
+I'm a computer engineer and a software developer. I'm passionate about technology and have huge attraction by astronomy 🌌.
 
 Connect with me on:
 [![Linkedin Badge](https://img.shields.io/badge/-aleantoniolli-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleantoniolli/)](https://www.linkedin.com/in/aleantoniolli/)
